@@ -78,6 +78,7 @@ plugins=(
 
 
 source $ZSH/oh-my-zsh.sh
+alias java='java -version'
 
 # User configuration
 
